@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="./github-header-image.png" align="center" alt="Github Readme Stats"/>
+ <h2 align="center">Profile</h2>
+</p>
 ### Hi there 👋
 
 <!--
