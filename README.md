@@ -1,6 +1,6 @@
 <p align="center">
- <img src="./github-header-image.png" align="center" alt="Github Readme Stats"/>
- <h2 align="center">Profile</h2>
+ <img src="./github-image.gif" align="center" alt="Github Readme Stats"/>
+ 
 </p>
 <h1 align="center">Hi 👋, I'm Overlord76</h1>
 <h3 align="center">A passionate developer</h3>
