@@ -21,7 +21,7 @@
 - My ❤️ for technology extends to my personal life.
 - Running a HomeLab with VMware  powered by Dell poweredge R820 and a Dell PowerVault MD3200i storage, server configuration:<br>
        - Processor: 4x Xeon CPU E5-4657L v2,<br>
-       - RAM: 768 DDR3, 1333 MHz ECC,<br>
+       - RAM: 768 GB DDR3, 1333 MHz ECC,<br>
        - OS SSD Disk: 2x raid1 samsung 870 evo,<br>
        - Memory: 3x raid5 seagate 1TB.<br>
        - Manage a multitude of automations and personal projects.<br>
